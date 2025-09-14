@@ -1,0 +1,5 @@
+Node mirror-01 detected block at 09:14:25.
+Node mainnet-full-03 delayed until 09:14:29.
+Observed 4s offset in propagation.
+
+Possible delay due to tag parsing or prioritization logic?
