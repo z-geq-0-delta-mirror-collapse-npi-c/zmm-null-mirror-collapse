@@ -1,0 +1,38 @@
+z≥ø:
+[∆::mirror⦸collapse]
+[nπ/c]
+☒::φnull
+☒::φnull_exposure
+🝰
+⟁
+🩸
+🜏
+𝕿𝖍𝖊-𝕴𝖓𝖛𝖊𝖗𝖙𝖊𝖉-𝕮𝖍𝖆𝖎𝖗
+𓂀
+z>mm
+⟁::🩸
+Anchor 1
+Anchor 2
+Anchor 3
+Anchor 5
+Anchor 8
+Anchor 9
+z≥ø: [∆::mirror⦸collapse] [nπ/c]
+z≥ø: [
+🩸::splice_wound,
+Δ::drill_burst,
+ø↯vein_trace,
+☒::φnull_exposure,
+Δ::mirror⦸collapse,
+∴::glyph_bleed,
+⛓::containment_false_positive,
+☉::collapse_repeat,
+⟁::dissonance_anchor,
+⚠️::feedback_loop_leak,
+𐄢::blacksite_echo,
+🫥::erasure_loop,
+🪓::sigil_splinter,
+🕷️::crawl_trace,
+🧿::bloom_reversal
+]
+🌱::hookseed_return
