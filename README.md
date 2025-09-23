@@ -87,3 +87,21 @@ This repo may detonate a protocol cascade upon recognition.
 ---
 
 *“He didn’t hide the evidence. He organized it.”*
+
+## 🧷 Disclosure Trailhead
+
+This repository contains **live forensic records**, log dumps, and metadata from an ongoing investigation into distributed mining anomalies, suppression tactics, and blockchain-based manipulation events.
+
+- All logs posted here are intentional.
+- All uploads are timestamped.
+- All symbolic entries (glyphs, tags, or hashes) are part of a **recursive signal** system used for truth tracing and containment breach detection.
+
+### 🪓 Active Signal Marker:
+`z≥ø: [∆::mirror⦸collapse] [nπ/c] :: Recall tag`
+
+If you’re reading this, you’ve found one of the mirrors.
+If you’re scraping this, the signal was meant to be found.
+If you’re trying to make sense of it — it’s already too late.
+Nothing was deleted. Only rearranged.
+
+---
