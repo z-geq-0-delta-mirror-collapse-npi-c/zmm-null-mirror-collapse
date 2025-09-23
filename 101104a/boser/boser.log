@@ -1,0 +1,128 @@
+2025-05-27T16:15:33.500984Z  INFO actix_web::middleware::logger: 10.1.10.237 GET /cgi-bin/luci/admin/status/overview?status=1&_=0.9486048578997008 HTTP/1.1 200 502 http://10.1.10.42/cgi-bin/luci/admin/status/overview 0.126855    
+2025-05-27T16:15:38.818996Z  INFO actix_web::middleware::logger: 10.1.10.237 GET /cgi-bin/luci/admin/status/overview?status=1&_=0.8201962426242134 HTTP/1.1 200 502 http://10.1.10.42/cgi-bin/luci/admin/status/overview 0.125103    
+2025-05-27T16:15:38.936287Z  INFO actix_web::middleware::logger: 10.1.10.237 GET /cgi-bin/luci/admin/status/overview?hosts=1&_=0.07327538655028809 HTTP/1.1 200 610 http://10.1.10.42/cgi-bin/luci/admin/status/overview 0.093119    
+2025-05-27T16:15:44.067176Z  INFO actix_web::middleware::logger: 10.1.10.237 GET /cgi-bin/luci/admin/status/overview?status=1&_=0.5245608643373152 HTTP/1.1 200 502 http://10.1.10.42/cgi-bin/luci/admin/status/overview 0.126356    
+2025-05-27T16:15:49.250367Z  INFO actix_web::middleware::logger: 10.1.10.237 GET /cgi-bin/luci/admin/status/overview?status=1&_=0.943547172818665 HTTP/1.1 200 501 http://10.1.10.42/cgi-bin/luci/admin/status/overview 0.126492    
+2025-05-27T16:15:54.487171Z  INFO actix_web::middleware::logger: 10.1.10.237 GET /cgi-bin/luci/admin/status/overview?status=1&_=0.3263796171921043 HTTP/1.1 200 501 http://10.1.10.42/cgi-bin/luci/admin/status/overview 0.125310    
+2025-05-27T16:15:59.678165Z  INFO actix_web::middleware::logger: 10.1.10.237 GET /cgi-bin/luci/admin/status/overview?status=1&_=0.5020144212160407 HTTP/1.1 200 502 http://10.1.10.42/cgi-bin/luci/admin/status/overview 0.125682    
+2025-05-27T16:16:04.867634Z  INFO actix_web::middleware::logger: 10.1.10.237 GET /cgi-bin/luci/admin/status/overview?status=1&_=0.5032970827133179 HTTP/1.1 200 502 http://10.1.10.42/cgi-bin/luci/admin/status/overview 0.125967    
+2025-05-27T16:16:04.986334Z  INFO actix_web::middleware::logger: 10.1.10.237 GET /cgi-bin/luci/admin/status/overview?hosts=1&_=0.82297412554551 HTTP/1.1 200 610 http://10.1.10.42/cgi-bin/luci/admin/status/overview 0.091681    
+2025-05-27T16:16:10.060295Z  INFO actix_web::middleware::logger: 10.1.10.237 GET /cgi-bin/luci/admin/status/overview?status=1&_=0.24763034999292322 HTTP/1.1 200 502 http://10.1.10.42/cgi-bin/luci/admin/status/overview 0.127515    
+2025-05-27T16:16:15.367965Z  INFO actix_web::middleware::logger: 10.1.10.237 GET /cgi-bin/luci/admin/status/overview?status=1&_=0.08953334844168537 HTTP/1.1 200 501 http://10.1.10.42/cgi-bin/luci/admin/status/overview 0.129225    
+2025-05-27T16:16:20.796035Z  INFO actix_web::middleware::logger: 10.1.10.237 GET /cgi-bin/luci/admin/status/overview?status=1&_=0.913657860473591 HTTP/1.1 200 501 http://10.1.10.42/cgi-bin/luci/admin/status/overview 0.127098    
+2025-05-27T16:16:25.989576Z  INFO actix_web::middleware::logger: 10.1.10.237 GET /cgi-bin/luci/admin/status/overview?status=1&_=0.9735390258638142 HTTP/1.1 200 501 http://10.1.10.42/cgi-bin/luci/admin/status/overview 0.128725    
+2025-05-27T16:16:32.208760Z  INFO actix_web::middleware::logger: 10.1.10.237 GET /cgi-bin/luci/admin/status/overview?status=1&_=0.42637521582984594 HTTP/1.1 200 501 http://10.1.10.42/cgi-bin/luci/admin/status/overview 0.126649    
+2025-05-27T16:16:32.319816Z  INFO actix_web::middleware::logger: 10.1.10.237 GET /cgi-bin/luci/admin/status/overview?hosts=1&_=0.22277980820939114 HTTP/1.1 200 610 http://10.1.10.42/cgi-bin/luci/admin/status/overview 0.090506    
+2025-05-27T16:16:37.504350Z  INFO actix_web::middleware::logger: 10.1.10.237 GET /cgi-bin/luci/admin/status/overview?status=1&_=0.06154714906224279 HTTP/1.1 200 500 http://10.1.10.42/cgi-bin/luci/admin/status/overview 0.125529    
+2025-05-27T16:16:42.685386Z  INFO actix_web::middleware::logger: 10.1.10.237 GET /cgi-bin/luci/admin/status/overview?status=1&_=0.36515511383709454 HTTP/1.1 200 500 http://10.1.10.42/cgi-bin/luci/admin/status/overview 0.127267    
+2025-05-27T16:16:47.886476Z  INFO actix_web::middleware::logger: 10.1.10.237 GET /cgi-bin/luci/admin/status/overview?status=1&_=0.1408682166163826 HTTP/1.1 200 500 http://10.1.10.42/cgi-bin/luci/admin/status/overview 0.128422    
+2025-05-27T16:16:53.078272Z  INFO actix_web::middleware::logger: 10.1.10.237 GET /cgi-bin/luci/admin/status/overview?status=1&_=0.8820663067028724 HTTP/1.1 200 500 http://10.1.10.42/cgi-bin/luci/admin/status/overview 0.126255    
+2025-05-27T16:16:58.303445Z  INFO actix_web::middleware::logger: 10.1.10.237 GET /cgi-bin/luci/admin/status/overview?status=1&_=0.4920889296785673 HTTP/1.1 200 500 http://10.1.10.42/cgi-bin/luci/admin/status/overview 0.126624    
+2025-05-27T16:16:58.414090Z  INFO actix_web::middleware::logger: 10.1.10.237 GET /cgi-bin/luci/admin/status/overview?hosts=1&_=0.13279864095762084 HTTP/1.1 200 610 http://10.1.10.42/cgi-bin/luci/admin/status/overview 0.090387    
+2025-05-27T16:17:03.472956Z  INFO actix_web::middleware::logger: 10.1.10.237 GET /cgi-bin/luci/admin/status/overview?status=1&_=0.264399219121221 HTTP/1.1 200 500 http://10.1.10.42/cgi-bin/luci/admin/status/overview 0.124264    
+2025-05-27T16:17:08.662338Z  INFO actix_web::middleware::logger: 10.1.10.237 GET /cgi-bin/luci/admin/status/overview?status=1&_=0.9246171771821688 HTTP/1.1 200 501 http://10.1.10.42/cgi-bin/luci/admin/status/overview 0.127028    
+2025-05-27T16:17:14.618356Z  INFO actix_web::middleware::logger: 10.1.10.237 GET /graphql HTTP/1.1 101 6680105 - 1596.843251    
+2025-06-10T12:59:05.837346Z  INFO boser::button_manager: New button event: Ok(Pressed(IpBroadcast))
+2025-06-10T12:59:06.137347Z  INFO boser::button_manager: New button event: Ok(Released(IpBroadcast))
+2025-06-10T12:59:06.137502Z  INFO boser_unix::unix: Broadcasting IP address
+2025-06-10T12:59:06.137548Z  INFO boser::led_manager: changing led mode to FaultLight
+2025-06-10T12:59:06.188497Z  WARN boser_unix::unix: Error while broadcasting IP: primary interface couldn't be determined
+2025-06-10T12:59:06.188709Z  INFO boser::led_manager: changing led mode to Off
+2025-06-10T13:08:08.447374Z  INFO boser::button_manager: New button event: Ok(Pressed(IpBroadcast))
+2025-06-10T13:08:08.647339Z  INFO boser::button_manager: New button event: Ok(Released(IpBroadcast))
+2025-06-10T13:08:08.647495Z  INFO boser_unix::unix: Broadcasting IP address
+2025-06-10T13:08:08.647539Z  INFO boser::led_manager: changing led mode to FaultLight
+2025-06-10T13:08:08.648524Z  WARN boser_unix::unix: Error while broadcasting IP: primary interface couldn't be determined
+2025-06-10T13:08:08.648585Z  INFO boser::led_manager: changing led mode to Off
+2025-06-10T13:12:59.063050Z  INFO actix_web::middleware::logger: 10.1.10.237 GET / HTTP/1.1 200 2098 - 0.000672    
+2025-06-10T13:12:59.088856Z  INFO actix_web::middleware::logger: 10.1.10.237 GET /var/brand.js?v=93277 HTTP/1.1 200 1439 http://10.1.10.43/ 0.000531    
+2025-06-10T13:12:59.090627Z  INFO actix_web::middleware::logger: 10.1.10.237 GET /styles.f12f299203165098.js HTTP/1.1 200 25078 http://10.1.10.43/ 0.001336    
+2025-06-10T13:12:59.288944Z  INFO actix_web::middleware::logger: 10.1.10.237 GET /app.9cef31f8a35a591e.js HTTP/1.1 200 501576 http://10.1.10.43/ 0.190173    
+2025-06-10T13:12:59.304523Z  INFO actix_web::middleware::logger: 10.1.10.237 GET /styles.7888cb117c992b5c.css HTTP/1.1 200 968613 http://10.1.10.43/ 0.213457    
+2025-06-10T13:12:59.641508Z  INFO actix_web::middleware::logger: 10.1.10.237 GET /vendors.f9e6ee20bdab563e.js HTTP/1.1 200 2513176 http://10.1.10.43/ 0.543638    
+2025-06-10T13:13:00.082860Z  INFO actix_web::middleware::logger: 10.1.10.237 GET /var/header.svg HTTP/1.1 200 2658 http://10.1.10.43/ 0.001287    
+2025-06-10T13:13:00.083583Z  INFO actix_web::middleware::logger: 10.1.10.237 GET /assets/fonts/braiins/BraiinsSans-Bold.woff2?v=0a27ead09ec4cf27e452ebff4e06a57e HTTP/1.1 200 59076 http://10.1.10.43/styles.7888cb117c992b5c.css 0.001759    
+2025-06-10T13:13:00.084696Z  INFO actix_web::middleware::logger: 10.1.10.237 GET /assets/fonts/braiins/BraiinsSans-Regular.woff2?v=43813c3c279fd40dce742a21502a8c2e HTTP/1.1 200 57512 http://10.1.10.43/styles.7888cb117c992b5c.css 0.002265    
+2025-06-10T13:13:00.097535Z  INFO actix_web::middleware::logger: 10.1.10.237 GET /var/favicon.png?v=98119 HTTP/1.1 200 10350 http://10.1.10.43/ 0.000879    
+2025-06-10T13:13:00.238783Z  INFO actix_web::middleware::logger: 10.1.10.237 POST /graphql HTTP/1.1 200 173 http://10.1.10.43/ 0.005654    
+2025-06-10T13:13:02.365095Z  INFO actix_web::middleware::logger: 10.1.10.237 POST /graphql HTTP/1.1 200 134 http://10.1.10.43/ 0.012091    
+2025-06-10T13:13:14.296183Z  INFO actix_web::middleware::logger: 10.1.10.237 POST /graphql HTTP/1.1 200 75 http://10.1.10.43/ 0.030961    
+2025-06-10T13:13:14.384228Z  INFO actix_web::middleware::logger: 10.1.10.237 GET /700.9bcde0b38ffe9a45.js HTTP/1.1 200 94723 http://10.1.10.43/ 0.061934    
+2025-06-10T13:13:14.386510Z  INFO actix_web::middleware::logger: 10.1.10.237 GET /assets/fonts/braiins/BraiinsSans-SemiBold.woff2?v=8b78a1c32ff9a8d55fad04dca85b52e4 HTTP/1.1 200 61376 http://10.1.10.43/styles.7888cb117c992b5c.css 0.003622    
+2025-06-10T13:13:14.392024Z  INFO actix_web::middleware::logger: 10.1.10.237 GET /assets/fonts/ibmPlex/IBMPlexMono-Regular.woff2?v=bb864f259058e90f135427e82025b6db HTTP/1.1 200 39328 http://10.1.10.43/styles.7888cb117c992b5c.css 0.003375    
+2025-06-10T13:13:14.396673Z  INFO actix_web::middleware::logger: 10.1.10.237 GET /var/footer.svg HTTP/1.1 200 3731 http://10.1.10.43/ 0.000794    
+2025-06-10T13:13:14.401814Z  INFO actix_web::middleware::logger: 10.1.10.237 POST /graphql HTTP/1.1 200 1143 http://10.1.10.43/ 0.024953    
+2025-06-10T13:13:14.768323Z  INFO actix_web::middleware::logger: 10.1.10.237 POST /graphql HTTP/1.1 200 285 http://10.1.10.43/ 0.002282    
+2025-06-10T13:13:15.363314Z  INFO actix_web::middleware::logger: 10.1.10.237 POST /graphql HTTP/1.1 200 60 http://10.1.10.43/ 0.001437    
+2025-06-10T13:13:25.409329Z  INFO actix_web::middleware::logger: 10.1.10.237 GET /cgi-bin/luci/admin/status/overview HTTP/1.1 200 16046 - 0.146318    
+2025-06-10T13:13:25.438863Z  INFO actix_web::middleware::logger: 10.1.10.237 GET /luci-static/resources/xhr.js?v=unknown HTTP/1.1 200 4612 http://10.1.10.43/cgi-bin/luci/admin/status/overview 0.004056    
+2025-06-10T13:13:25.440141Z  INFO actix_web::middleware::logger: 10.1.10.237 GET /luci-static/bootstrap/cascade.css?v=unknown HTTP/1.1 200 50527 http://10.1.10.43/cgi-bin/luci/admin/status/overview 0.008099    
+2025-06-10T13:13:25.448429Z  INFO actix_web::middleware::logger: 10.1.10.237 GET /luci-static/resources/icons/ethernet_disabled.png HTTP/1.1 200 399 http://10.1.10.43/cgi-bin/luci/admin/status/overview 0.002570    
+2025-06-10T13:13:25.454836Z  INFO actix_web::middleware::logger: 10.1.10.237 GET /luci-static/resources/cbi.js?v=unknown HTTP/1.1 200 31666 http://10.1.10.43/cgi-bin/luci/admin/status/overview 0.003758    
+2025-06-10T13:13:25.468810Z  INFO actix_web::middleware::logger: 10.1.10.237 GET /luci-static/bootstrap/mobile.css?v=unknown HTTP/1.1 200 351 http://10.1.10.43/cgi-bin/luci/admin/status/overview 0.002223    
+2025-06-10T13:13:25.550784Z  INFO actix_web::middleware::logger: 10.1.10.237 GET /luci-static/bootstrap/favicon.ico HTTP/1.1 200 1150 http://10.1.10.43/cgi-bin/luci/admin/status/overview 0.008802    
+2025-06-10T13:13:25.625196Z  INFO actix_web::middleware::logger: 10.1.10.237 GET /cgi-bin/luci/admin/status/overview?status=1&_=0.6697007556886274 HTTP/1.1 200 496 http://10.1.10.43/cgi-bin/luci/admin/status/overview 0.150622    
+2025-06-10T13:13:25.644577Z  INFO actix_web::middleware::logger: 10.1.10.237 GET /luci-static/resources/icons/ethernet.png HTTP/1.1 200 701 http://10.1.10.43/cgi-bin/luci/admin/status/overview 0.002503    
+2025-06-10T13:13:30.629870Z  INFO actix_web::middleware::logger: 10.1.10.237 GET /cgi-bin/luci/admin/status/overview?status=1&_=0.28840992122190545 HTTP/1.1 200 496 http://10.1.10.43/cgi-bin/luci/admin/status/overview 0.150335    
+2025-06-10T13:13:35.630466Z  INFO actix_web::middleware::logger: 10.1.10.237 GET /cgi-bin/luci/admin/status/overview?status=1&_=0.005220996192073835 HTTP/1.1 200 496 http://10.1.10.43/cgi-bin/luci/admin/status/overview 0.151666    
+2025-06-10T13:13:40.634874Z  INFO actix_web::middleware::logger: 10.1.10.237 GET /cgi-bin/luci/admin/status/overview?status=1&_=0.6132265126786908 HTTP/1.1 200 496 http://10.1.10.43/cgi-bin/luci/admin/status/overview 0.152348    
+2025-06-10T13:13:45.639177Z  INFO actix_web::middleware::logger: 10.1.10.237 GET /cgi-bin/luci/admin/status/overview?status=1&_=0.6431404617884832 HTTP/1.1 200 496 http://10.1.10.43/cgi-bin/luci/admin/status/overview 0.150264    
+2025-06-10T13:13:45.764329Z  INFO actix_web::middleware::logger: 10.1.10.237 GET /cgi-bin/luci/admin/status/overview?hosts=1&_=0.1494946620039732 HTTP/1.1 200 590 http://10.1.10.43/cgi-bin/luci/admin/status/overview 0.115887    
+2025-06-10T13:13:50.634873Z  INFO actix_web::middleware::logger: 10.1.10.237 GET /cgi-bin/luci/admin/status/overview?status=1&_=0.9651568485230076 HTTP/1.1 200 496 http://10.1.10.43/cgi-bin/luci/admin/status/overview 0.149539    
+2025-06-10T13:13:55.623838Z  INFO actix_web::middleware::logger: 10.1.10.237 GET /cgi-bin/luci/admin/status/overview?status=1&_=0.9757244775986469 HTTP/1.1 200 496 http://10.1.10.43/cgi-bin/luci/admin/status/overview 0.150051    
+2025-06-10T13:14:00.629152Z  INFO actix_web::middleware::logger: 10.1.10.237 GET /cgi-bin/luci/admin/status/overview?status=1&_=0.08230449063648748 HTTP/1.1 200 496 http://10.1.10.43/cgi-bin/luci/admin/status/overview 0.152171    
+2025-06-10T13:14:01.394816Z  INFO actix_web::middleware::logger: 10.1.10.237 GET /cgi-bin/luci/admin/system/admin HTTP/1.1 200 12779 http://10.1.10.43/cgi-bin/luci/admin/status/overview 0.219593    
+2025-06-10T13:14:01.420083Z  INFO actix_web::middleware::logger: 10.1.10.237 GET /luci-static/resources/cbi/reload.gif HTTP/1.1 200 248 http://10.1.10.43/cgi-bin/luci/admin/system/admin 0.003525    
+2025-06-10T13:14:01.421431Z  INFO actix_web::middleware::logger: 10.1.10.237 GET /luci-static/resources/cbi/help.gif HTTP/1.1 200 266 http://10.1.10.43/cgi-bin/luci/admin/system/admin 0.003512    
+2025-06-10T13:14:01.439747Z  INFO actix_web::middleware::logger: 10.1.10.237 GET /luci-static/resources/cbi/add.gif HTTP/1.1 200 378 http://10.1.10.43/luci-static/bootstrap/cascade.css?v=unknown 0.002222    
+2025-06-10T13:14:09.242895Z  INFO actix_web::middleware::logger: 10.1.10.237 GET /cgi-bin/luci/admin/status/syslog HTTP/1.1 200 1159904 http://10.1.10.43/cgi-bin/luci/admin/system/admin 1.425548    
+2025-06-10T13:21:42.528101Z  INFO actix_web::middleware::logger: 10.1.10.237 GET / HTTP/1.1 200 2098 - 0.000716    
+2025-06-10T13:21:42.641394Z  INFO actix_web::middleware::logger: 10.1.10.237 GET /styles.f12f299203165098.js HTTP/1.1 200 25078 http://10.1.10.43/ 0.000882    
+2025-06-10T13:21:42.752506Z  INFO actix_web::middleware::logger: 10.1.10.237 GET /var/brand.js?v=58900 HTTP/1.1 200 1439 http://10.1.10.43/ 0.000976    
+2025-06-10T13:21:42.754148Z  INFO actix_web::middleware::logger: 10.1.10.237 GET /app.9cef31f8a35a591e.js HTTP/1.1 200 501576 http://10.1.10.43/ 0.090436    
+2025-06-10T13:21:42.880243Z  INFO actix_web::middleware::logger: 10.1.10.237 GET /styles.7888cb117c992b5c.css HTTP/1.1 200 968613 http://10.1.10.43/ 0.198883    
+2025-06-10T13:21:43.023725Z  INFO actix_web::middleware::logger: 10.1.10.237 GET /vendors.f9e6ee20bdab563e.js HTTP/1.1 200 2513176 http://10.1.10.43/ 0.360029    
+2025-06-10T13:21:43.035384Z  INFO actix_web::middleware::logger: 10.1.10.237 GET /assets/fonts/braiins/BraiinsSans-Regular.woff2?v=43813c3c279fd40dce742a21502a8c2e HTTP/1.1 200 57512 http://10.1.10.43/styles.7888cb117c992b5c.css 0.001992    
+2025-06-10T13:21:43.484531Z  INFO actix_web::middleware::logger: 10.1.10.237 GET /assets/fonts/braiins/BraiinsSans-Bold.woff2?v=0a27ead09ec4cf27e452ebff4e06a57e HTTP/1.1 200 59076 http://10.1.10.43/styles.7888cb117c992b5c.css 0.001462    
+2025-06-10T13:21:43.528627Z  INFO actix_web::middleware::logger: 10.1.10.237 GET /var/header.svg HTTP/1.1 200 2658 http://10.1.10.43/ 0.000562    
+2025-06-10T13:21:43.587960Z  INFO actix_web::middleware::logger: 10.1.10.237 GET /var/favicon.png?v=81834 HTTP/1.1 200 10350 http://10.1.10.43/ 0.000712    
+2025-06-10T13:21:43.686926Z  INFO actix_web::middleware::logger: 10.1.10.237 POST /graphql HTTP/1.1 200 173 http://10.1.10.43/ 0.004879    
+2025-06-10T13:21:46.884407Z  INFO actix_web::middleware::logger: 10.1.10.237 POST /graphql HTTP/1.1 200 75 http://10.1.10.43/ 0.032202    
+2025-06-10T13:21:46.921033Z  INFO actix_web::middleware::logger: 10.1.10.237 GET /700.9bcde0b38ffe9a45.js HTTP/1.1 200 94723 http://10.1.10.43/ 0.001933    
+2025-06-10T13:21:46.986620Z  INFO actix_web::middleware::logger: 10.1.10.237 GET /var/footer.svg HTTP/1.1 200 3731 http://10.1.10.43/ 0.005558    
+2025-06-10T13:21:46.994077Z  INFO actix_web::middleware::logger: 10.1.10.237 GET /assets/fonts/braiins/BraiinsSans-SemiBold.woff2?v=8b78a1c32ff9a8d55fad04dca85b52e4 HTTP/1.1 200 61376 http://10.1.10.43/styles.7888cb117c992b5c.css 0.001831    
+2025-06-10T13:21:46.999628Z  INFO actix_web::middleware::logger: 10.1.10.237 GET /assets/fonts/ibmPlex/IBMPlexMono-Regular.woff2?v=bb864f259058e90f135427e82025b6db HTTP/1.1 200 39328 http://10.1.10.43/styles.7888cb117c992b5c.css 0.001751    
+2025-06-10T13:21:47.003415Z  INFO actix_web::middleware::logger: 10.1.10.237 POST /graphql HTTP/1.1 200 1143 http://10.1.10.43/ 0.019597    
+2025-06-10T13:21:47.373174Z  INFO actix_web::middleware::logger: 10.1.10.237 POST /graphql HTTP/1.1 200 285 http://10.1.10.43/ 0.002261    
+2025-06-10T13:21:47.975387Z  INFO actix_web::middleware::logger: 10.1.10.237 POST /graphql HTTP/1.1 200 60 http://10.1.10.43/ 0.001215    
+2025-06-10T13:21:59.392802Z  INFO actix_web::middleware::logger: 10.1.10.237 GET /638.7c17a543484b225f.js HTTP/1.1 200 133564 http://10.1.10.43/system 0.004926    
+2025-06-10T13:21:59.541157Z  INFO actix_web::middleware::logger: 10.1.10.237 POST /graphql HTTP/1.1 200 34157 http://10.1.10.43/system 0.037572    
+2025-06-10T13:22:00.811421Z  INFO actix_web::middleware::logger: 10.1.10.237 POST /graphql HTTP/1.1 200 429846 http://10.1.10.43/system/log 0.107741    
+2025-06-10T13:37:56.663157Z  INFO actix_web::middleware::logger: 10.1.10.237 POST /graphql HTTP/1.1 200 285 http://10.1.10.43/ 0.002212    
+2025-06-10T13:37:59.233153Z  INFO actix_web::middleware::logger: 10.1.10.237 GET /cgi-bin/luci/admin/status/overview HTTP/1.1 200 16046 http://10.1.10.43/ 0.147351    
+2025-06-10T13:37:59.439700Z  INFO actix_web::middleware::logger: 10.1.10.237 GET /cgi-bin/luci/admin/status/overview?status=1&_=0.5215123640255283 HTTP/1.1 200 500 http://10.1.10.43/cgi-bin/luci/admin/status/overview 0.149929    
+2025-06-10T13:38:03.841162Z  INFO actix_web::middleware::logger: 10.1.10.237 GET /cgi-bin/luci/admin/status/dmesg HTTP/1.1 200 19448 http://10.1.10.43/cgi-bin/luci/admin/status/overview 0.136183    
+2025-06-10T13:38:55.597816Z  INFO actix_web::middleware::logger: 10.1.10.237 GET /cgi-bin/luci/admin/status/processes HTTP/1.1 200 182524 http://10.1.10.43/cgi-bin/luci/admin/status/dmesg 1.745078    
+2025-06-10T13:38:55.692277Z  INFO actix_web::middleware::logger: 10.1.10.237 GET /luci-static/resources/cbi/remove.gif HTTP/1.1 200 385 http://10.1.10.43/luci-static/bootstrap/cascade.css?v=unknown 0.069287    
+2025-06-10T13:38:55.693435Z  INFO actix_web::middleware::logger: 10.1.10.237 GET /luci-static/resources/cbi/reset.gif HTTP/1.1 200 258 http://10.1.10.43/luci-static/bootstrap/cascade.css?v=unknown 0.061956    
+2025-06-10T13:48:30.191774Z  INFO actix_web::middleware::logger: 10.1.10.237 GET /cgi-bin/luci/admin/status/syslog HTTP/1.1 200 1160030 http://10.1.10.43/cgi-bin/luci/admin/status/processes 1.346556    
+2025-06-10T13:48:40.851056Z  INFO actix_web::middleware::logger: 10.1.10.237 GET /cgi-bin/luci/admin/status/dmesg HTTP/1.1 200 19572 http://10.1.10.43/cgi-bin/luci/admin/status/syslog 0.135664    
+2025-06-10T13:48:43.416349Z  INFO actix_web::middleware::logger: 10.1.10.237 POST /graphql HTTP/1.1 200 285 http://10.1.10.43/ 0.002228    
+2025-06-10T13:48:51.559147Z  INFO actix_web::middleware::logger: 10.1.10.237 POST /graphql HTTP/1.1 200 285 http://10.1.10.43/ 0.002251    
+2025-06-10T13:49:10.768588Z  INFO actix_web::middleware::logger: 10.1.10.237 GET /638.7c17a543484b225f.js HTTP/1.1 200 133564 http://10.1.10.43/system 0.008693    
+2025-06-10T13:49:10.893596Z  INFO actix_web::middleware::logger: 10.1.10.237 POST /graphql HTTP/1.1 200 34157 http://10.1.10.43/system 0.036758    
+2025-06-10T13:49:14.317652Z  INFO actix_web::middleware::logger: 10.1.10.237 POST /graphql HTTP/1.1 200 430272 http://10.1.10.43/system/log 0.103870    
+2025-06-10T13:49:34.991320Z  INFO actix_web::middleware::logger: 10.1.10.237 GET /graphql HTTP/1.1 101 9024207 - 2180.225576    
+2025-06-10T13:49:57.425680Z  INFO actix_web::middleware::logger: 10.1.10.237 POST /graphql HTTP/1.1 200 1143 http://10.1.10.43/system/log 0.012088    
+2025-06-10T13:58:02.375802Z  INFO actix_web::middleware::logger: 10.1.10.237 GET /graphql HTTP/1.1 101 332481 - 2175.001470    
+2025-06-11T13:55:53.294973Z  INFO actix_web::middleware::logger: 10.1.10.237 GET /system/log HTTP/1.1 200 2098 - 0.000791    
+2025-06-11T13:55:53.474577Z  INFO actix_web::middleware::logger: 10.1.10.237 GET /var/brand.js?v=73569 HTTP/1.1 200 1439 http://10.1.10.43/system/log 0.000643    
+2025-06-11T13:55:53.622941Z  INFO actix_web::middleware::logger: 10.1.10.237 GET /assets/fonts/braiins/BraiinsSans-Regular.woff2?v=43813c3c279fd40dce742a21502a8c2e HTTP/1.1 200 57512 http://10.1.10.43/styles.7888cb117c992b5c.css 0.001498    
+2025-06-11T13:55:54.273133Z  INFO actix_web::middleware::logger: 10.1.10.237 GET /var/favicon.png?v=2336 HTTP/1.1 200 10350 http://10.1.10.43/system/log 0.000853    
+2025-06-11T13:55:54.338253Z  INFO actix_web::middleware::logger: 10.1.10.237 POST /graphql HTTP/1.1 200 173 http://10.1.10.43/system/log 0.004325    
+2025-06-11T13:55:56.868605Z  INFO actix_web::middleware::logger: 10.1.10.237 POST /graphql HTTP/1.1 200 134 http://10.1.10.43/system/log 0.012375    
+2025-06-11T13:56:01.513397Z  INFO actix_web::middleware::logger: 10.1.10.237 POST /graphql HTTP/1.1 200 75 http://10.1.10.43/system/log 0.031850    
+2025-06-11T13:56:01.700787Z  INFO actix_web::middleware::logger: 10.1.10.237 POST /graphql HTTP/1.1 200 1143 http://10.1.10.43/system/log 0.012152    
+2025-06-11T13:56:01.801925Z  INFO actix_web::middleware::logger: 10.1.10.237 POST /graphql HTTP/1.1 200 34157 http://10.1.10.43/system/log 0.037379    
+2025-06-11T13:56:02.294603Z  INFO actix_web::middleware::logger: 10.1.10.237 POST /graphql HTTP/1.1 200 435976 http://10.1.10.43/system/log 0.399161    
+2025-06-11T13:56:02.630679Z  INFO actix_web::middleware::logger: 10.1.10.237 POST /graphql HTTP/1.1 200 60 http://10.1.10.43/system/log 0.001172    

@@ -1,0 +1,10 @@
+{"timestamp":"2025-05-01T07:48:14.884927Z","message":"ZERO MCR DETECTED, HB 1","errors":[],"components":[]}
+{"timestamp":"2025-05-01T07:48:14.891873Z","message":"ZERO MCR DETECTED, HB 2","errors":[],"components":[]}
+{"timestamp":"2025-05-01T07:48:14.899010Z","message":"ZERO MCR DETECTED, HB 3","errors":[],"components":[]}
+{"timestamp":"2025-05-01T07:48:49.371089Z","message":"ZERO MCR DETECTED, HB 1","errors":[],"components":[]}
+{"timestamp":"2025-05-01T07:48:49.378832Z","message":"ZERO MCR DETECTED, HB 2","errors":[],"components":[]}
+{"timestamp":"2025-05-01T07:48:49.386261Z","message":"ZERO MCR DETECTED, HB 3","errors":[],"components":[]}
+{"timestamp":"2025-05-01T07:48:49.766778Z","message":"Tuner error: Stage 4: {ERR:H2} Stage 4: Zero MCR on hashboards [Address(1), Address(2), Address(3)]","errors":[{"code":"H2","reason":"Hashboard stopped sending hashes","hint":"Usually a sign of voltage glitch on the hashboard, the issue will often resolve itself. If it happens frequently, conditions of the hashboard might have changed. Remove tuned profiles. If the hashboard is in bad shape, lowering power/hashrate target can also help."}],"components":[]}
+{"timestamp":"2025-05-17T02:51:29.207966Z","message":"Tuner error: Hashchip: number of responses 123 of read_register(reg=0x14) doesn't match chip count 126: reply 0x2 missing","errors":[],"components":[]}
+{"timestamp":"2025-05-19T07:35:33.195011Z","message":"Tuner error: Hashchip: number of responses 123 of read_register(reg=0x14) doesn't match chip count 126: reply 0x2 missing","errors":[],"components":[]}
+{"timestamp":"2025-05-19T16:47:06.632390Z","message":"Tuner error: Hashchip: number of responses 123 of read_register(reg=0x14) doesn't match chip count 126: reply 0x2 missing","errors":[],"components":[]}
