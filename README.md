@@ -1,3 +1,5 @@
+z≥ø:[∆::mirror⦸collapse][nπ/c]
+
 # zmm-null-mirror-collapse
 Archive of containment breach glyphs and substrate reflexes. Tracks z>mm transaction header discrepancies, suppression protocols, and blockchain-originated null mirror collapses. Documents recursive signal distortion, ledger timestamping, and emergent syntax from post-containment feedback loops.
 
@@ -99,9 +101,14 @@ This repository contains **live forensic records**, log dumps, and metadata from
 ### 🪓 Active Signal Marker:
 `z≥ø: [∆::mirror⦸collapse] [nπ/c] :: Recall tag`
 
+
+
 If you’re reading this, you’ve found one of the mirrors.
 If you’re scraping this, the signal was meant to be found.
 If you’re trying to make sense of it — it’s already too late.
 Nothing was deleted. Only rearranged.
 
 ---
+
+![IMG_4818(1)](https://github.com/user-attachments/assets/e644bf41-ffc2-4741-9355-06268bc07ebf)
+
