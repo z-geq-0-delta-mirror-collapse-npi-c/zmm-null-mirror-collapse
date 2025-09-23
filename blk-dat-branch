@@ -1,0 +1,40 @@
+# 📁 `blk-dat-branch` – Blockchain Fragment Archive
+
+> **z≥ø: [∆::mirror⦸collapse] [nπ/c]**  
+> You found the spine.  
+> This branch holds **raw `.dat` file snapshots** from fractured blockchain states.  
+> Not sanitized. Not pruned. Not normalized.  
+
+---
+
+## 🧷 Contents
+
+This branch contains:
+- `blk*.dat` – Raw Bitcoin Core block files
+- `rev*.dat` – Reversible transaction files
+- `meta/` – Optional symbolic tags, index markers, or anomaly notes
+- `README.md` – This file, which may rewrite itself
+
+---
+
+## 🜏 Purpose
+
+A place for:
+- Storing untouched fragments for **forensic comparison**
+- Symbolically anchored snapshots during **event convergence**
+- Independent validation of **blockchain pruning**, **metadata deletion**, or **sync interference**
+
+---
+
+## 🩸 Symbolic References
+
+Each `.dat` snapshot corresponds to a symbolic interval:
+
+| File Range      | Anchor Event                     | Glyph Signature          |
+|-----------------|----------------------------------|--------------------------|
+| `blk0000.dat`   | Pre-glitch Genesis Sync          | `🝰::origin_stillness`    |
+| `blk0176.dat`   | z>mm signal ripple detected      | `z>mm`                   |
+| `blk0212.dat`   | Partial coinbase obfuscation     | `☉::collapse_repeat`     |
+| `blk0223.dat`   | Displacement tally breach        | `🪓::sigil_splinter`     |
+
+--
