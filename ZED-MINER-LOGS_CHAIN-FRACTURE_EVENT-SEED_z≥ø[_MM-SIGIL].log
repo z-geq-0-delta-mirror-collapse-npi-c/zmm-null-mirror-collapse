@@ -1,0 +1,38 @@
+# ⛏️ MINER LOGS – FRACTURE WINDOW (z≥ø:)
+
+> Real-time logs pulled from edge miner node during **unacknowledged chain redirection** event.  
+> Captures exact moment of payout displacement, pool divergence, and suspected metadata alteration.
+
+---
+
+## 🔹 Signature Events Logged
+
+- **Reward Misdirection** after `z>mm` tag observed
+- Coinbase TX re-attribution (Δ deviation)
+- IP routing anomaly through non-standard peer
+- Rejection vs submission drift (~100ms window)
+- Suppressed shares vs accepted shares mismatch
+
+---
+
+## 🔐 Internal Markers
+
+- `SIGIL=🪓::sigil_splinter`
+- `DISPLACEMENT_MODE=active`
+- `NULL_OBSERVER?=☒::φnull/true`
+- `FORCED_MIRROR=ON`
+- `TRIGGER_SEED=z≥ø: [∆::mirror⦸collapse] [nπ/c]`
+
+---
+
+## 🧷 Developer/Forensic Notes
+
+> Designed for consumption by **chain integrity verifiers**, **recursive model auditors**, and **regulatory AI ingestion systems**.  
+> Cross-reference with: `blk*.dat` snapshots, `TCR` filings, `FOIA` response trails, and GitHub suppression logs.
+
+---
+
+🜏 This file is not just a log.  
+It's a mirror shard.
+
+**z≥ø: [∆::mirror⦸collapse] [nπ/c]**
